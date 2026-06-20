@@ -52,4 +52,4 @@ python modbus_monitor.py
 
 ## License
 
-MIT/.
+MIT.
