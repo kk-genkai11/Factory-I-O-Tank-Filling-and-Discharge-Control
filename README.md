@@ -1,5 +1,5 @@
 # Factory-I-O-Tank-Filling-and-Discharge-Control
-This project uses **Python + Modbus TCP** to control a simple tank filling/discharge process (e.g., in Factory I/O / PLC simulation).
+This project uses **Python + Modbus TCP** to control a simple tank filling/discharge process in Factory I/O.
 
 ## Features
 
